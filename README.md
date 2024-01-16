@@ -6,3 +6,7 @@ This repository contains code that creates a random password generator. This gen
 
 # Link to Deployed App
 https://dfussell1.github.io/challenge-three-password-gen/
+
+# Credit 
+The starter code for this repository can be found here: 
+https://github.com/coding-boot-camp/friendly-parakeet

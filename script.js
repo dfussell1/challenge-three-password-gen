@@ -145,6 +145,7 @@ function generatePassword() {
     optionsArr = optionsArr.concat(specChar);
   }
 
+  // For loop to loop over array and choose characters for password
   for (var i = 0; i < passLength; i++) {
     var randomIndex = Math.floor(Math.random() * optionsArr.length);
     password += optionsArr[randomIndex];
